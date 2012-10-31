@@ -1,0 +1,10 @@
+aotj:Asbc2i17SrTv6:100:100:Manfrensun Chensun:/home/aotj:/bin/tcsh
+lobgot:Be7PdTKBzW/A2:101:100:Horhe:/home/lobgot:/bin/tcsh
+wapl:df/.Yk8l0Ox5g:102:100:Dr. Do:/home/wapl:/bin/tcsh
+sysadm:jkDLyI9uDHp0.:103:100:Dr. Sysadm:/home/sysadm:/bin/tcsh
+testuser:TjCLRHDvLwduE:104:100:Mr. Test:/home/testuser:/bin/bash
+loser:FundbSsM8Hkbo:105:100:Mr. Loser:/home/loser:/bin/bash
+gehrer:JkVs26BqvNa0E:106:100:Frau Gehrer:/home/gehrer:/bin/tcsh
+kartalkaya:plRxO39cM3GjY:105:100:Mr. Ski:/home/kartalkaya:/bin/tcsh
+cuuniv:DFAEefRxsE3Sg:108:100:BalC CuuNiV:/home/cuuniv:/bin/bash
+mastad:jKeFnDwPHOCOE:109:100:Mastad:/home/cuuniv:/bin/bash
